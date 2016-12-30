@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/LinearLayout01" 
+		xmlns:android="http://schemas.android.com/apk/res/android" 
+		android:layout_height="wrap_content" android:layout_width="wrap_content" 
+		android:layout_gravity="center" android:gravity="center" 
+		android:layout_marginLeft="30.0px" android:layout_marginRight="30.0px">
+ 	<ListView android:id="@+id/ListView01" 
+ 		android:layout_width="fill_parent" android:layout_height="wrap_content" 
+ 		android:layout_gravity="center_horizontal"/>
+</LinearLayout>

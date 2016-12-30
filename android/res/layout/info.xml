@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" android:background="#FFFFFFFF">
+	
+	<ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:scrollbars="vertical" android:background="@drawable/nebeland">
+		<TextView android:layout_width="fill_parent" android:gravity="fill_vertical|fill_horizontal|center" android:inputType="textMultiLine" android:textStyle="normal" android:text="Information" android:id="@+id/label" android:layout_height="fill_parent" android:textColor="#FF000000"/>
+	</ScrollView>
+</LinearLayout>

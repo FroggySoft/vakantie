@@ -1,0 +1,3 @@
+Dit programma toont aan de hand van de aangegeven regio, periode en schooljaar de data van de vakanties, zowel van het basisonderwijs en voortgezet onderwijs als de bouwvak. 
+Ook kan men vaststellen of op een bepaalde datum of in een bepaalde week één of meerdere regio's vakantie hebben.
+Daarnaast kan je direct bepalen op welke dag de Nederlandse feestdagen vallen (Nieuwjaarsdag, Carnaval, Pasen, Hemelvaart, Pinksteren en Kerst)

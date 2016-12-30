@@ -1,0 +1,375 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		0C9349BF18ACD73E00114EA4 /* Vakantie.app in Resources */ = {isa = PBXBuildFile; fileRef = 1D6058910D05DD3D006BFB54 /* Vakantie.app */; };
+		0C9349CA18ACDE7600114EA4 /* FeestController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C9349C718ACDE7600114EA4 /* FeestController.m */; };
+		0C9349CB18ACDE7600114EA4 /* InfoController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C9349C918ACDE7600114EA4 /* InfoController.m */; };
+		0C9349D418ACDECB00114EA4 /* FeestController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349CC18ACDECB00114EA4 /* FeestController.xib */; };
+		0C9349D518ACDECB00114EA4 /* Froggysoft_logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349CD18ACDECB00114EA4 /* Froggysoft_logo.png */; };
+		0C9349D618ACDECB00114EA4 /* InfoController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349CE18ACDECB00114EA4 /* InfoController.xib */; };
+		0C9349D718ACDECB00114EA4 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349CF18ACDECB00114EA4 /* MainWindow.xib */; };
+		0C9349D818ACDECB00114EA4 /* Nebeland.PNG in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349D018ACDECB00114EA4 /* Nebeland.PNG */; };
+		0C9349D918ACDECB00114EA4 /* Vakantie-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349D118ACDECB00114EA4 /* Vakantie-Info.plist */; };
+		0C9349DA18ACDECB00114EA4 /* Vakantie.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349D218ACDECB00114EA4 /* Vakantie.png */; };
+		0C9349DB18ACDECB00114EA4 /* VakantieViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349D318ACDECB00114EA4 /* VakantieViewController.xib */; };
+		0C9349DD18ACDF0200114EA4 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349DC18ACDF0200114EA4 /* Default-568h@2x.png */; };
+		0C9349DF18ACDF1300114EA4 /* balkje.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349DE18ACDF1300114EA4 /* balkje.png */; };
+		0C9349E118ACDF2000114EA4 /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0C9349E018ACDF2000114EA4 /* Entitlements.plist */; };
+		0C934A1118ACE09C00114EA4 /* DatePicker.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C934A0F18ACE09C00114EA4 /* DatePicker.xib */; };
+		0C934A1218ACE09C00114EA4 /* ListController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0C934A1018ACE09C00114EA4 /* ListController.xib */; };
+		1D3623260D0F684500981E51 /* VakantieAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 1D3623250D0F684500981E51 /* VakantieAppDelegate.m */; };
+		1D60589B0D05DD56006BFB54 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; };
+		1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1D30AB110D05D00D00671497 /* Foundation.framework */; };
+		1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1DF5F4DF0D08C38300B7A737 /* UIKit.framework */; };
+		288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765A40DF7441C002DB57D /* CoreGraphics.framework */; };
+		28D7ACF80DDB3853001CB0EB /* VakantieViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D7ACF70DDB3853001CB0EB /* VakantieViewController.m */; };
+		D4168B9A119DD9DF00C2F4B3 /* ListController.m in Sources */ = {isa = PBXBuildFile; fileRef = D4168B99119DD9DF00C2F4B3 /* ListController.m */; };
+		D46FCAF311A02F22001A1EB8 /* DatePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = D46FCAF111A02F22001A1EB8 /* DatePicker.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		0C9349C618ACDE7600114EA4 /* FeestController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FeestController.h; sourceTree = "<group>"; };
+		0C9349C718ACDE7600114EA4 /* FeestController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FeestController.m; sourceTree = "<group>"; };
+		0C9349C818ACDE7600114EA4 /* InfoController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InfoController.h; sourceTree = "<group>"; };
+		0C9349C918ACDE7600114EA4 /* InfoController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = InfoController.m; sourceTree = "<group>"; };
+		0C9349CC18ACDECB00114EA4 /* FeestController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = FeestController.xib; path = Classes/FeestController.xib; sourceTree = "<group>"; };
+		0C9349CD18ACDECB00114EA4 /* Froggysoft_logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Froggysoft_logo.png; path = Classes/Froggysoft_logo.png; sourceTree = "<group>"; };
+		0C9349CE18ACDECB00114EA4 /* InfoController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = InfoController.xib; path = Classes/InfoController.xib; sourceTree = "<group>"; };
+		0C9349CF18ACDECB00114EA4 /* MainWindow.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = MainWindow.xib; path = Classes/MainWindow.xib; sourceTree = "<group>"; };
+		0C9349D018ACDECB00114EA4 /* Nebeland.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Nebeland.PNG; path = Classes/Nebeland.PNG; sourceTree = "<group>"; };
+		0C9349D118ACDECB00114EA4 /* Vakantie-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "Vakantie-Info.plist"; path = "Classes/Vakantie-Info.plist"; sourceTree = "<group>"; };
+		0C9349D218ACDECB00114EA4 /* Vakantie.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Vakantie.png; path = Classes/Vakantie.png; sourceTree = "<group>"; };
+		0C9349D318ACDECB00114EA4 /* VakantieViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = VakantieViewController.xib; path = Classes/VakantieViewController.xib; sourceTree = "<group>"; };
+		0C9349DC18ACDF0200114EA4 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "Classes/Default-568h@2x.png"; sourceTree = "<group>"; };
+		0C9349DE18ACDF1300114EA4 /* balkje.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = balkje.png; path = Classes/balkje.png; sourceTree = "<group>"; };
+		0C9349E018ACDF2000114EA4 /* Entitlements.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Entitlements.plist; path = Classes/Entitlements.plist; sourceTree = "<group>"; };
+		0C934A0F18ACE09C00114EA4 /* DatePicker.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = DatePicker.xib; path = Classes/DatePicker.xib; sourceTree = "<group>"; };
+		0C934A1018ACE09C00114EA4 /* ListController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = ListController.xib; path = Classes/ListController.xib; sourceTree = "<group>"; };
+		1D30AB110D05D00D00671497 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1D3623240D0F684500981E51 /* VakantieAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VakantieAppDelegate.h; sourceTree = "<group>"; };
+		1D3623250D0F684500981E51 /* VakantieAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VakantieAppDelegate.m; sourceTree = "<group>"; };
+		1D6058910D05DD3D006BFB54 /* Vakantie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Vakantie.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		1DF5F4DF0D08C38300B7A737 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		288765A40DF7441C002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		28D7ACF60DDB3853001CB0EB /* VakantieViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = VakantieViewController.h; sourceTree = "<group>"; };
+		28D7ACF70DDB3853001CB0EB /* VakantieViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = VakantieViewController.m; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		32CA4F630368D1EE00C91783 /* Vakantie_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Vakantie_Prefix.pch; sourceTree = "<group>"; };
+		D4168B98119DD9D200C2F4B3 /* ListController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ListController.h; sourceTree = "<group>"; };
+		D4168B99119DD9DF00C2F4B3 /* ListController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ListController.m; sourceTree = "<group>"; };
+		D46FCAF011A02F22001A1EB8 /* DatePicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DatePicker.h; sourceTree = "<group>"; };
+		D46FCAF111A02F22001A1EB8 /* DatePicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DatePicker.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1D60588F0D05DD3D006BFB54 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589F0D05DD5A006BFB54 /* Foundation.framework in Frameworks */,
+				1DF5F4E00D08C38300B7A737 /* UIKit.framework in Frameworks */,
+				288765A50DF7441C002DB57D /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				0C9349C618ACDE7600114EA4 /* FeestController.h */,
+				0C9349C718ACDE7600114EA4 /* FeestController.m */,
+				0C9349C818ACDE7600114EA4 /* InfoController.h */,
+				0C9349C918ACDE7600114EA4 /* InfoController.m */,
+				D46FCAF011A02F22001A1EB8 /* DatePicker.h */,
+				D46FCAF111A02F22001A1EB8 /* DatePicker.m */,
+				D4168B99119DD9DF00C2F4B3 /* ListController.m */,
+				D4168B98119DD9D200C2F4B3 /* ListController.h */,
+				1D3623240D0F684500981E51 /* VakantieAppDelegate.h */,
+				1D3623250D0F684500981E51 /* VakantieAppDelegate.m */,
+				28D7ACF60DDB3853001CB0EB /* VakantieViewController.h */,
+				28D7ACF70DDB3853001CB0EB /* VakantieViewController.m */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1D6058910D05DD3D006BFB54 /* Vakantie.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
+			isa = PBXGroup;
+			children = (
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+				0C9349E018ACDF2000114EA4 /* Entitlements.plist */,
+			);
+			name = CustomTemplate;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				32CA4F630368D1EE00C91783 /* Vakantie_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				0C934A0F18ACE09C00114EA4 /* DatePicker.xib */,
+				0C934A1018ACE09C00114EA4 /* ListController.xib */,
+				0C9349DE18ACDF1300114EA4 /* balkje.png */,
+				0C9349DC18ACDF0200114EA4 /* Default-568h@2x.png */,
+				0C9349CC18ACDECB00114EA4 /* FeestController.xib */,
+				0C9349CD18ACDECB00114EA4 /* Froggysoft_logo.png */,
+				0C9349CE18ACDECB00114EA4 /* InfoController.xib */,
+				0C9349CF18ACDECB00114EA4 /* MainWindow.xib */,
+				0C9349D018ACDECB00114EA4 /* Nebeland.PNG */,
+				0C9349D118ACDECB00114EA4 /* Vakantie-Info.plist */,
+				0C9349D218ACDECB00114EA4 /* Vakantie.png */,
+				0C9349D318ACDECB00114EA4 /* VakantieViewController.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1DF5F4DF0D08C38300B7A737 /* UIKit.framework */,
+				1D30AB110D05D00D00671497 /* Foundation.framework */,
+				288765A40DF7441C002DB57D /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1D6058900D05DD3D006BFB54 /* Vakantie */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Vakantie" */;
+			buildPhases = (
+				1D60588D0D05DD3D006BFB54 /* Resources */,
+				1D60588E0D05DD3D006BFB54 /* Sources */,
+				1D60588F0D05DD3D006BFB54 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Vakantie;
+			productName = Vakantie;
+			productReference = 1D6058910D05DD3D006BFB54 /* Vakantie.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = FroggySoft;
+				TargetAttributes = {
+					1D6058900D05DD3D006BFB54 = {
+						DevelopmentTeam = 983878HJSM;
+					};
+				};
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Vakantie" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				en,
+				English,
+				Base,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* CustomTemplate */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1D6058900D05DD3D006BFB54 /* Vakantie */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1D60588D0D05DD3D006BFB54 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0C9349D518ACDECB00114EA4 /* Froggysoft_logo.png in Resources */,
+				0C9349D818ACDECB00114EA4 /* Nebeland.PNG in Resources */,
+				0C934A1218ACE09C00114EA4 /* ListController.xib in Resources */,
+				0C9349E118ACDF2000114EA4 /* Entitlements.plist in Resources */,
+				0C9349D618ACDECB00114EA4 /* InfoController.xib in Resources */,
+				0C9349D918ACDECB00114EA4 /* Vakantie-Info.plist in Resources */,
+				0C9349D718ACDECB00114EA4 /* MainWindow.xib in Resources */,
+				0C9349BF18ACD73E00114EA4 /* Vakantie.app in Resources */,
+				0C9349DD18ACDF0200114EA4 /* Default-568h@2x.png in Resources */,
+				0C9349DF18ACDF1300114EA4 /* balkje.png in Resources */,
+				0C9349D418ACDECB00114EA4 /* FeestController.xib in Resources */,
+				0C9349DB18ACDECB00114EA4 /* VakantieViewController.xib in Resources */,
+				0C934A1118ACE09C00114EA4 /* DatePicker.xib in Resources */,
+				0C9349DA18ACDECB00114EA4 /* Vakantie.png in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1D60588E0D05DD3D006BFB54 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1D60589B0D05DD56006BFB54 /* main.m in Sources */,
+				0C9349CA18ACDE7600114EA4 /* FeestController.m in Sources */,
+				1D3623260D0F684500981E51 /* VakantieAppDelegate.m in Sources */,
+				28D7ACF80DDB3853001CB0EB /* VakantieViewController.m in Sources */,
+				D4168B9A119DD9DF00C2F4B3 /* ListController.m in Sources */,
+				0C9349CB18ACDE7600114EA4 /* InfoController.m in Sources */,
+				D46FCAF311A02F22001A1EB8 /* DatePicker.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1D6058940D05DD3E006BFB54 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Vakantie_Prefix.pch;
+				INFOPLIST_FILE = "Vakantie-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = Vakantie;
+				PROVISIONING_PROFILE = "A575133B-A617-46F3-8E02-652750AB4AD3";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1D6058950D05DD3E006BFB54 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				"CODE_SIGN_ENTITLEMENTS[sdk=*]" = "";
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Vakantie_Prefix.pch;
+				INFOPLIST_FILE = "Vakantie-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = Vakantie;
+				PROVISIONING_PROFILE = "A575133B-A617-46F3-8E02-652750AB4AD3";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "A575133B-A617-46F3-8E02-652750AB4AD3";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "";
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: FroggySoft";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "8305A928-7855-48A1-9635-2A8193CCEB70";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		D46FCB5E11A03BB6001A1EB8 /* Adhoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = Entitlements.plist;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: FroggySoft";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "424D919B-9942-45E5-B51F-49F98483AA5B";
+				SDKROOT = iphoneos;
+			};
+			name = Adhoc;
+		};
+		D46FCB5F11A03BB6001A1EB8 /* Adhoc */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = Vakantie_Prefix.pch;
+				INFOPLIST_FILE = "Vakantie-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				PRODUCT_NAME = Vakantie;
+				PROVISIONING_PROFILE = "A575133B-A617-46F3-8E02-652750AB4AD3";
+				SDKROOT = iphoneos;
+			};
+			name = Adhoc;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1D6058960D05DD3E006BFB54 /* Build configuration list for PBXNativeTarget "Vakantie" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1D6058940D05DD3E006BFB54 /* Debug */,
+				1D6058950D05DD3E006BFB54 /* Release */,
+				D46FCB5F11A03BB6001A1EB8 /* Adhoc */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "Vakantie" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+				D46FCB5E11A03BB6001A1EB8 /* Adhoc */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

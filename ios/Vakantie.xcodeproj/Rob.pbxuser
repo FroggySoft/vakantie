@@ -1,0 +1,223 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* VakantieAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 497}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 468}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Vakantie */ = {
+		activeExec = 0;
+		executables = (
+			D479FBE91196AFCE003D7068 /* Vakantie */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* VakantieViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 754}}";
+			sepNavSelRange = "{487, 0}";
+			sepNavVisRange = "{0, 941}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* VakantieViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 5278}}";
+			sepNavSelRange = "{12539, 0}";
+			sepNavVisRange = "{11879, 809}";
+			sepNavWindowFrame = "{{15, 172}, {1070, 825}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Release;
+		activeExecutable = D479FBE91196AFCE003D7068 /* Vakantie */;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Vakantie */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Vakantie */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = D479FBF41196AFED003D7068 /* Code sense */;
+		executables = (
+			D479FBE91196AFCE003D7068 /* Vakantie */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					799,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					759,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 329483530;
+			PBXWorkspaceStateSaveDate = 329483530;
+		};
+		sourceControlManager = D479FBF31196AFED003D7068 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 497}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 345}";
+		};
+	};
+	8D1107310486CEB800E47090 /* Vakantie-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 151}, {1070, 825}}";
+		};
+	};
+	D4168B98119DD9D200C2F4B3 /* ListController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 497}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 508}";
+		};
+	};
+	D4168B99119DD9DF00C2F4B3 /* ListController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1261}}";
+			sepNavSelRange = "{1830, 0}";
+			sepNavVisRange = "{456, 1104}";
+			sepNavWindowFrame = "{{15, 172}, {1070, 825}}";
+		};
+	};
+	D4168BA5119DDD4400C2F4B3 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 507}}";
+			sepNavSelRange = "{370, 27}";
+			sepNavVisRange = "{0, 999}";
+		};
+	};
+	D4168BA6119DDD4400C2F4B3 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 2756}}";
+			sepNavSelRange = "{980, 83}";
+			sepNavVisRange = "{3218, 1492}";
+			sepNavWindowFrame = "{{15, 172}, {1070, 825}}";
+		};
+	};
+	D4168BAC119DDE3D00C2F4B3 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 507}}";
+			sepNavSelRange = "{559, 0}";
+			sepNavVisRange = "{0, 1010}";
+		};
+	};
+	D4168BAD119DDE3D00C2F4B3 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {23168, 1118}}";
+			sepNavSelRange = "{2244, 0}";
+			sepNavVisRange = "{1187, 5923}";
+		};
+	};
+	D46FCAF011A02F22001A1EB8 /* DatePicker.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {977, 497}}";
+			sepNavSelRange = "{225, 12}";
+			sepNavVisRange = "{0, 550}";
+		};
+	};
+	D46FCAF111A02F22001A1EB8 /* DatePicker.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1079}}";
+			sepNavSelRange = "{1419, 0}";
+			sepNavVisRange = "{1078, 675}";
+		};
+	};
+	D46FCB5C11A03B81001A1EB8 /* Entitlements.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 176}, {1185, 821}}";
+		};
+	};
+	D479FBE91196AFCE003D7068 /* Vakantie */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Vakantie;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	D479FBF31196AFED003D7068 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	D479FBF41196AFED003D7068 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	D479FBF61196C572003D7068 /* Vakantie.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{38, 155}, {1185, 821}}";
+		};
+	};
+}
